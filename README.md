@@ -54,11 +54,10 @@ This project helps users understand how strong their password is by validating m
 - 🔀 Conditional Statements
 
 ---
-
 Password-Strength-Checker-Java
 ├── PasswordChecker.java
-├── HelperFile.java (if any)
 └── README.md
+
 
 
 

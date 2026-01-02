@@ -14,10 +14,10 @@ Java project that checks password strength using real-world security rules.
 Weak passwords are one of the most common security issues.  
 This project helps users understand how strong their password is by validating multiple conditions like length, character variety, and complexity.
 
-👨‍🎓 Perfect for:
-- Java beginners  
+👨‍🎓
+- Java Project
 - Learning basic security concepts  
-- Building a professional GitHub portfolio  
+- 
 
 ---
 
@@ -59,6 +59,7 @@ Password-Strength-Checker-Java
 ├── PasswordChecker.java
 ├── HelperFile.java (if any)
 └── README.md
+
 
 
 

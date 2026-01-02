@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
 
 > 🔒 **Create stronger passwords using simple Java logic**  
-A beginner-friendly Java project that checks password strength using real-world security rules.
+Java project that checks password strength using real-world security rules.
 
 ---
 
@@ -54,9 +54,14 @@ This project helps users understand how strong their password is by validating m
 - 🔀 Conditional Statements
 
 ---
+
 Password-Strength-Checker-Java
 ├── PasswordChecker.java
 ├── HelperFile.java (if any)
 └── README.md
+
+
+
+
 
 

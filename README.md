@@ -58,7 +58,10 @@ Password-Strength-Checker-Java
 ├── PasswordChecker.java
 └── README.md
 
+--- 
 
+- Password strength detection (Weak / Medium / Strong)
+- Automatic strong password suggestion
 
 
 

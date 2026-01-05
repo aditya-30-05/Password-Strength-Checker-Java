@@ -61,7 +61,9 @@ Password-Strength-Checker-Java
 --- 
 
 - Password strength detection (Weak / Medium / Strong)
+- <b>
 - Automatic strong password suggestion
+
 
 
 

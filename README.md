@@ -17,7 +17,7 @@ This project helps users understand how strong their password is by validating m
 👨‍🎓
 - Java Project
 - Learning basic security concepts  
-- 
+  
 
 ---
 
@@ -64,6 +64,7 @@ Password-Strength-Checker-Java
 - Password strength detection (Weak / Medium / Strong)
  <b>
 - Automatic strong password suggestion
+
 
 
 

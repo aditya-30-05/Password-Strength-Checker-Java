@@ -41,6 +41,7 @@ This project helps users understand how strong their password is by validating m
 | Uppercase | At least 1 capital letter |
 | Lowercase | At least 1 small letter |
 | Number | At least 1 digit |
+
 | Special Character | `! @ # $ % ^ & *` |
 
 ➡️ More rules satisfied = stronger password 💪
@@ -63,6 +64,7 @@ Password-Strength-Checker-Java
 - Password strength detection (Weak / Medium / Strong)
  <b>
 - Automatic strong password suggestion
+
 
 
 

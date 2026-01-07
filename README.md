@@ -56,7 +56,10 @@ This project helps users understand how strong their password is by validating m
 
 ---
 Password-Strength-Checker-Java
+<b>
 ├── PasswordChecker.java
+<b>
+
 └── README.md
 
 --- 
@@ -64,6 +67,7 @@ Password-Strength-Checker-Java
 - Password strength detection (Weak / Medium / Strong)
  <b>
 - Automatic strong password suggestion
+
 
 
 

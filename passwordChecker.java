@@ -17,6 +17,7 @@ public class PasswordStrengthChecker {
         else if (score <= 4) return "Medium";
         else return "Strong";
     }
+    
 
     // Suggest strong password
     public static String suggestPassword(String password) {
@@ -58,4 +59,5 @@ public class PasswordStrengthChecker {
         sc.close();
     }
 }
+
 
